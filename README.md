@@ -31,7 +31,7 @@
 class Akshat:
     name        = "Akshat Tiwari"
     role        = "Senior Software Engineer @ Optum"
-    education   = "B.Tech, KIIT University | CPI: 8.68"
+    education   = "B.Tech, KIIT University "
     location    = "India 🇮🇳"
 
     skills = {
