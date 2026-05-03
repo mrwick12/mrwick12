@@ -54,7 +54,6 @@ class Akshat:
 
     currently_working_on = "EasyTest @ Optum — modernizing architecture & CI/CD pipelines"
     ask_me_about         = ["System Design", "DSA", "React", "Java", "AI-assisted dev"]
-    fun_fact             = "I automated my QA team out of 70% of their work. They thanked me."
 ```
 
 ---
